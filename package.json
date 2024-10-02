@@ -26,6 +26,7 @@
         "eval": "^0.1.8",
         "express": "^4.17.3",
         "fast-speedtest-api": "^0.3.2",
+        "fca-disme": "git+https://github.com/dongdev06/fca-disme.git",
         "fs-extra": "^10.0.1",
         "https-proxy-agent": "^5.0.1",
         "moment": "^2.29.1",
